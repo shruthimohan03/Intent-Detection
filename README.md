@@ -92,3 +92,10 @@ This is an **ML multi-classification problem**, where the goal is to classify ea
 - **Transformers (Hugging Face)**: For BERT embeddings.  
 
 ---
+## 6. Future Directions  
+
+- Explore **transfer learning** with larger pre-trained models.  
+- Apply **few-shot learning techniques** to better generalize on small datasets.  
+- Integrate **explainability methods** (e.g., SHAP) to interpret model decisions.
+
+---
